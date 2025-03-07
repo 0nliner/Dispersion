@@ -1,5 +1,5 @@
-# Dispersion API Gatewa![Frame 2(1)](https://github.com/user-attachments/assets/4356dc2a-b911-4d42-825a-da288d5f9bb9)
-y (Pre-alpha)
+![Frame 2(1)](https://github.com/user-attachments/assets/4356dc2a-b911-4d42-825a-da288d5f9bb9)
+# Dispersion API Gateway (Pre-alpha)
 
  
 Собирайте, объединяйте и автоматизируйте API-интерфейсы 
