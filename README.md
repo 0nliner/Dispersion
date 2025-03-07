@@ -45,6 +45,7 @@ services:
 
 ## 🛠 Использование
 На данный момент вся настройка apigateway производится через UI
+![small_demo](https://github.com/user-attachments/assets/54a9797b-d3c1-416d-baca-8a0ccd64ec63)
 
 
 ## ROADMAP
